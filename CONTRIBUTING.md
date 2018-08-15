@@ -12,6 +12,25 @@ This project has enormous potential for expansion, and we strongly encourage ide
 
 <h2>Getting Started</h2>
 
+If you are interested in contributing to IDCN's Talent Mangagement Platform, your contributions will fall into three categories:
+1. You want to propose a new feature.
+    - First check the outstanding issues here: https://github.com/IDCN/talent-management-platform/issues.
+    - Post about your intended feature, and we shall discuss its design and implementation.
+2. You want to implement a feature.
+    - Especially look at the Low Priority and Medium Priority issues
+    - Pick an issue and comment on the task that you want to work on this feature
+    - If you need more context on a particular issue, please ask and we shall provide.
+3. You want to implement a bug-fix.
+    - Especially look at the Low Priority and Medium Priority issues.
+    - Pick an issue and comment on the task that you want to work on this feature.
+    - If you need more context on a particular issue, please ask and we shall provide.
+
+After implementing a feature or bug-fix, please send a Pull Request to https://github.com/IDCN/talent-management-platform/.
+
+If you are unfamiliar with creating a Pull Request, here are some guides:
+- http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
+- https://help.github.com/articles/creating-a-pull-request/
+
 <h2>Targeted Demographics</h2>
 The Targeted Demographics Report summarizes the desired job placement outcomes of active local members.
 
