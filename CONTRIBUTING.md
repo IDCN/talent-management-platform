@@ -12,7 +12,7 @@ This project has enormous potential for expansion, and we strongly encourage ide
 
 <h2>Getting Started</h2>
 
-If you are interested in contributing to IDCN's Talent Mangagement Platform, your contributions will fall into two categories:
+If you are interested in contributing to IDCN's Talent Mangagement Platform, your contributions will fall into three categories:
 1. You want to propose a new feature.
     - First check the outstanding issues here: https://github.com/IDCN/talent-management-platform/issues.
     - Post your new feature for a discussion of its design and implementation.
