@@ -29,6 +29,11 @@ If you are unfamiliar with creating a Pull Request, here are some guides:
 - http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
 - https://help.github.com/articles/creating-a-pull-request/
 
+If you have never programmed with R, check the following resources:
+- Installing R: https://www.r-project.org/
+- Installing RStudio: https://www.rstudio.com/
+- Installing dependencies: https://github.com/IDCN/talent-management-platform/blob/master/installLibraries.R
+
 <h2>Targeted Demographics Project</h2>
 The Targeted Demographics Project summarizes the desired job placement outcomes of active local members for IDCN's Targeted Demographics Report. It wrangles a local membership database to produce bar charts of desired job placement outcomes in a local economy.
 
