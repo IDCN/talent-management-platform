@@ -22,7 +22,7 @@ In more detail, IDCN TMP consists of the following scripts:
 | ---- | --- |
 | **MonthlyReport.R** | provides various counts and charts of active and inactive members |
 | **TDP.R** | plots desired job placement outcomes of active members |
-| **extractTMP.R** | package dependencies, some of which may require manual installation with a package manager |
+| **extractTMP.R** | loads into R a local copy of a membership database |
 | **installLibraries.R** | package dependencies, some of which may require manual installation with a package manager |
-| **loadThemes.R** | a neural networks library deeply integrated with autograd designed for maximum flexibility |
-| **getSubtables.R** | a neural networks library deeply integrated with autograd designed for maximum flexibility |
+| **loadThemes.R** | themes and color palettes for various plots |
+| **getSubtables.R** | constructs .xlsx files of interest to volunteer teams |
