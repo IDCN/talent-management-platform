@@ -8,9 +8,9 @@ IDCN Talent Management Platform is a collection of R scripts that wrangle and vi
 
 - [More about IDCN TMP](#more-about-idcn-tmp)
 - [Getting Started](#getting-started)
-- [Communication](#communication)
-- [Contributing](#releases-and-contributing)
-- [Team](#teams)
+- [Organization and Communication](#organization-and-communication)
+- [Contributing](#contributing)
+- [People](#people)
 
 --------------------------------------------------------------------------------
 
