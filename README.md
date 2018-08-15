@@ -2,4 +2,4 @@
 
 --------------------------------------------------------------------------------
 
-Scripts for producing analytics of local membership databases.
+IDCN Talent Management Platform is a collection of R scripts that wrangle and visualize an IDCN chapter's local membership database.
