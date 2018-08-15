@@ -8,11 +8,15 @@ There are two main features in IDCN TMP:
 - Monthly Report, which provides various counts and charts of active and inactive members.
 - Targeted Demographics Project, which plots desired job placement outcomes of active members.
 
+<h3>Contents</h3>
+
 - [More about IDCN TMP](#more-about-pytorch)
 - [Getting Started](#getting-started)
 - [Communication](#communication)
-- [Releases and Contributing](#releases-and-contributing)
+- [Contributing](#releases-and-contributing)
 - [Team](#teams)
+
+--------------------------------------------------------------------------------
 
 ## More about IDCN TMP
 
