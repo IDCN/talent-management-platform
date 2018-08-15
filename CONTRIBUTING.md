@@ -12,30 +12,23 @@ This project has enormous potential for expansion, and we strongly encourage ide
 
 <h2>Getting Started</h2>
 
-If you are interested in contributing to IDCN's Talent Mangagement Platform, your contributions will fall into three categories:
+If you are interested in contributing to IDCN's Talent Mangagement Platform, your contributions will fall into two categories:
 1. You want to propose a new feature.
     - First check the outstanding issues here: https://github.com/IDCN/talent-management-platform/issues.
-    - Post about your intended feature, and we shall discuss its design and implementation.
-2. You want to implement a feature.
-    - Especially look at the Low Priority and Medium Priority issues
-    - Pick an issue and comment on the task that you want to work on this feature
-    - If you need more context on a particular issue, please ask and we shall provide.
-3. You want to implement a bug-fix.
-    - Especially look at the Low Priority and Medium Priority issues.
-    - Pick an issue and comment on the task that you want to work on this feature.
-    - If you need more context on a particular issue, please ask and we shall provide.
+    - Post your new feature for a discussion of its design and implementation.
+2. You want to implement either a feature or a bug-fix.
+    - Look at the Low Priority and Medium Priority issues.
+    - Choose an issue and comment on the task that you want to work on this feature.
+    - Ask if you need more context on a particular issue.
 
-After implementing a feature or bug-fix, please send a Pull Request to https://github.com/IDCN/talent-management-platform/.
+After implementing a feature or bug-fix, send a Pull Request to https://github.com/IDCN/talent-management-platform/.
 
 If you are unfamiliar with creating a Pull Request, here are some guides:
 - http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
 - https://help.github.com/articles/creating-a-pull-request/
 
-<h2>Targeted Demographics</h2>
-The Targeted Demographics Report summarizes the desired job placement outcomes of active local members.
+<h2>Targeted Demographics Project</h2>
+The Targeted Demographics Project summarizes the desired job placement outcomes of active local members for IDCN's Targeted Demographics Report. It wrangles a local membership database to produce bar charts of desired job placement outcomes in a local economy.
 
 <h2>Monthly Report</h2>
 The Monthly Report gives information about the current state of a chapter's membership. It includes counts of active and inactive members, gives accounts of former and current volunteers, and tracks the job placement outcomes of inactive members. This requires the reporter to conduct many counts of various subsets of the membership, all of which are automated by the R scripts.
-
-
-MonthlyReport.R controls these procedures.
