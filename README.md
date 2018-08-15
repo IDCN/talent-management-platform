@@ -6,7 +6,7 @@ IDCN Talent Management Platform is a collection of R scripts that wrangle and vi
 
 <h3>Contents</h3>
 
-- [More about IDCN TMP](#more-about-pytorch)
+- [More about IDCN TMP](#more-about-idcn-tmp)
 - [Getting Started](#getting-started)
 - [Communication](#communication)
 - [Contributing](#releases-and-contributing)
