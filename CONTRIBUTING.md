@@ -20,8 +20,10 @@ If you are interested in contributing to IDCN's Talent Mangagement Platform, you
     - Look at the Low Priority and Medium Priority issues.
     - Choose an issue and comment on the task that you want to work on this feature.
     - Ask if you need more context on a particular issue.
+3. You want to write documentation.
+    - Post your ideas for documentation as an issue.
 
-After implementing a feature or bug-fix, send a Pull Request to https://github.com/IDCN/talent-management-platform/.
+After implementing a feature/bug-fix or writing documentation, send a Pull Request to https://github.com/IDCN/talent-management-platform/.
 
 If you are unfamiliar with creating a Pull Request, here are some guides:
 - http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
