@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-IDCN Talent Management Platform is a collection of R scripts that wrangle and visualize an IDCN chapter's local membership database.
+IDCN Talent Management Platform is a collection of R scripts that wrangle and visualize an IDCN chapter's membership database.
 
 <h3>Contents</h3>
 
