@@ -2,10 +2,11 @@
 
 --------------------------------------------------------------------------------
 
-IDCN Talent Management Platform is a collection of R scripts that wrangle and visualize an IDCN chapter's membership database.
+IDCN Talent Management Platform is a collection of data science tools that help individuals and companies understand IDCN's membership.
 
 <h3>Contents</h3>
 
+- [Purpose](#purpose)
 - [More about IDCN TMP](#more-about-idcn-tmp)
 - [Getting Started](#getting-started)
 - [Organization and Communication](#organization-and-communication)
@@ -14,9 +15,17 @@ IDCN Talent Management Platform is a collection of R scripts that wrangle and vi
 
 --------------------------------------------------------------------------------
 
+## Purpose
+
+This project originated in IDCN Copenhagen in January 2018. The code base was written originally to pull demographic information from the membership database to understand where individuals wanted to go in the Danish economy. Copenhagen's Membership Team then realized that the code base could be used to expedite its Monthly Report on the status of the membership, as well as to generate quickly various spreadsheets of interest to other teams. The results were an acceleration of membership data generation and a deeper understanding of the interests of the organization.
+
+We now envision this project as an opportunity for IDCN members who are interested in data science to learn the R programming language in a practical business setting, as well as a chance for those who plan to enter data science to contribute to a useful open source project and thus bolster a data science portfolio. To that end, much of the code is heavily commented, so that new practitioners can treat it as a tutorial for data wrangling, data analysis, and data visualization.
+
+This project has enormous potential for expansion, and we strongly encourage ideas for extending functionality, speeding production, and improving visualization.
+
 ## More about IDCN TMP
 
-In more detail, IDCN TMP consists of the following scripts:
+IDCN TMP consists of the following scripts:
 
 | Script | Description |
 | ---- | --- |
