@@ -10,7 +10,7 @@ We now envision this project as an opportunity for IDCN members who are interest
 
 This project has enormous potential for expansion, and we strongly encourage ideas for extending functionality, speeding production, and improving visualization.
 
-<h2>Getting Started</h2>
+<h2>Ways to Contribute</h2>
 
 If you are interested in contributing to IDCN's Talent Mangagement Platform, your contributions will fall into three categories:
 1. You want to propose a new feature.
@@ -28,9 +28,3 @@ After implementing a feature/bug-fix or writing documentation, send a Pull Reque
 If you are unfamiliar with creating a Pull Request, here are some guides:
 - http://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
 - https://help.github.com/articles/creating-a-pull-request/
-
-<h2>Targeted Demographics Project</h2>
-The Targeted Demographics Project summarizes the desired job placement outcomes of active local members for IDCN's Targeted Demographics Report. It wrangles a local membership database to produce bar charts of desired job placement outcomes in a local economy.
-
-<h2>Monthly Report</h2>
-The Monthly Report gives information about the current state of a chapter's membership. It includes counts of active and inactive members, gives accounts of former and current volunteers, and tracks the job placement outcomes of inactive members. This requires the reporter to conduct many counts of various subsets of the membership, all of which are automated by the R scripts.
