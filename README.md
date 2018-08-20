@@ -60,9 +60,9 @@ General discussion about all things that relate to IDCN TMP or to the applicatio
 
 ## Contributing
 
-We appreciate all contributions. Especially of note is that it is not necessary to have programming experience to contribute. (No programming experience is needed to request a new feature!) If you are planning to contribute back bug-fixes, please do so without any further discussion.
+<b>We appreciate all contributions.</b> Especially of note is that it is not necessary to have programming experience to contribute. (No programming experience is needed to request a new feature!) If you are planning to contribute back bug-fixes, please do so without any further discussion.
 
-If you plan to contribute new features, utility functions or extensions to the core, please first open an issue and discuss the feature with us. Absent a discussion, a pull request is very likely to be rejected. After opening an issue, create a branch from master and name it after your intended contribution. (For example, if you wanted to add a bar chart that shows where inactive members have been employed, create a new branch from master and name it "inactive-employment-plot".) For more information about branching, please refer to the <a href="https://guides.github.com/introduction/flow/">GitHub Guide on Understanding the GitHub Flow</a>.
+If you plan to contribute new features, utility functions or extensions to the core, please <b>first open an issue</b> and discuss the feature with us. Absent a discussion, a pull request is very likely to be rejected. After opening an issue, <b>create a branch from master</b> and name it after your intended contribution. (For example, if you wanted to add a bar chart that shows where inactive members have been employed, create a new branch from master and name it "inactive-employment-plot".) For more information about branching, please refer to the <a href="https://guides.github.com/introduction/flow/">GitHub Guide on Understanding the GitHub Flow</a>.
 
 For more details, please refer to <a href="https://github.com/IDCN/talent-management-platform/blob/master/CONTRIBUTING.md">Contributing to IDCN's Talent Management Platform</a>.
 
