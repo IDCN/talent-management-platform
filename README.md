@@ -67,6 +67,6 @@ If you plan to contribute new features, utility functions or extensions to the c
 For more details, please refer to <a href="https://github.com/IDCN/talent-management-platform/blob/master/CONTRIBUTING.md">Contributing to IDCN's Talent Management Platform</a>.
 
 ## People
-IDCN TMP is an open source project driven by IDCN volunteers who want to construct data science tools to help the International Dual Career Network understand its membership and conduct its affairs efficiently.
+IDCN TMP is an open source project driven by IDCN volunteers who want to construct data science tools to help the International Dual Career Network understand its membership and advance its objectives.
 
 IDCN TMP is currently maintained by Jon Middleton and Jamile Queiroz de Sousa.
